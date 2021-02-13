@@ -1,0 +1,17 @@
+Fracter
+=======
+o Try adding a PerfCounter
+o Create persistant settings
+o Create undo/redo
+o Generalize parameterization to use key/value pairs
+o Create custom editors for Complex values
+o Convert Complex Range to use two Complex values
+o Add logging 
+o Set up Mercurial
+
+Auto Splat
+==========
+o Get it to build
+o Get it to load sample data
+
+
